@@ -1,0 +1,44 @@
+body{
+    width: 600px;
+    height: 450px;
+}
+.text-danger {
+    color: rgb(233, 52, 52);
+}
+.text-success {
+    color: rgb(25, 155, 25);
+}
+.text-info {
+    color: rgb(63, 106, 248);
+}
+.text-indigo {
+    color: indigo;
+}
+.text-white {
+    color: white;
+}
+.text-warning {
+    color: yellow;
+}
+
+.bg-dark {
+    background: rgb(27, 27, 27);
+}
+.bg-danger {
+    background: rgb(233, 52, 52);
+}
+.bg-success {
+    background: rgb(25, 155, 25);
+}
+.bg-info {
+    background: rgb(63, 106, 248);
+}
+.bg-indigo {
+    background: indigo;
+}
+.bg-white {
+    background: white;
+}
+.bg-warning {
+    background: yellow;
+}
