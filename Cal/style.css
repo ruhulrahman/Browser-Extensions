@@ -52,3 +52,20 @@ body{
 .text-right {
     text-align: right;
 }
+.p-5{
+    padding: 5px;
+}
+.p-10{
+    padding: 10px;
+}
+
+a{
+    /* text-decoration: none; */
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+
+}
