@@ -3,7 +3,7 @@
     "description": "This is Ruhul's first google chrome extension!",
     "version": "1.0",
     "manifest_version": 3,
-    "permissions": ["storage"],
+    "permissions": ["activeTab"],
     "action": {
         "default_popup": "index.html",
         "default_icon": {
